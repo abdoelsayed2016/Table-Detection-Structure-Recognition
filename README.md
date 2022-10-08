@@ -1,1 +1,1 @@
-# table-detection-structure-recognition
+# Table Detection and Structure Recognition
