@@ -5,7 +5,7 @@ This is the repository for the collection of Table Detection and Structure Recog
 
 If you find this repository helpful, you may consider cite our relevant work:
 
-*  sdfs
+*  
 *  Abdallah, Abdelrahman, Alexander Berendeyev, Islam Nuradin, and Daniyar Nurseitov. "TNCR: Table net detection and classification dataset." Neurocomputing 473 (2022): 79-97.  [Link](https://www.sciencedirect.com/science/article/pii/S0925231221018142)
 
 # Relevant Repositories
