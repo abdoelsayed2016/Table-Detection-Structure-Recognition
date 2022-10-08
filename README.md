@@ -28,14 +28,14 @@ If you find this repository helpful, you may consider cite our relevant work:
 * <b> Marmot </b>: Fang, Jing, Xin Tao, Zhi Tang, Ruiheng Qiu, and Ying Liu. "Dataset, ground-truth and performance metrics for table detection evaluation." In 2012 10th IAPR International Workshop on Document Analysis Systems, pp. 445-449. IEEE, 2012. [Paper Link](https://ieeexplore.ieee.org/abstract/document/6195411), [Home Page Link](https://www.icst.pku.edu.cn/cpdp/sjzy/).
 * <b> TableBank </b>: Li, Minghao, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou, and Zhoujun Li. "Tablebank: Table benchmark for image-based table detection and recognition." In Proceedings of The 12th language resources and evaluation conference, pp. 1918-1925. 2020. [Paper Link](https://aclanthology.org/2020.lrec-1.236/), [Home Page Link](https://github.com/doc-analysis/TableBank).
 * <b> DeepFigures </b>: Siegel, Noah, Nicholas Lourie, Russell Power, and Waleed Ammar. "Extracting scientific figures with distantly supervised neural networks." In Proceedings of the 18th ACM/IEEE on joint conference on digital libraries, pp. 223-232. 2018. [Paper Link](https://dl.acm.org/doi/abs/10.1145/3197026.3197040), [Home Page Link](https://github.com/allenai/deepfigures-open).
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
-* <b>  </b>:  [Paper Link](), [Home Page Link]().
+* <b> PubTables-1M </b>: Smock, Brandon, Rohith Pesala, and Robin Abraham. "PubTables-1M: Towards comprehensive table extraction from unstructured documents." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4634-4642. 2022. [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.html), [Home Page Link](https://github.com/microsoft/table-transformer).
+* <b> SciTSR </b>: Chi, Zewen, Heyan Huang, Heng-Da Xu, Houjin Yu, Wanxuan Yin, and Xian-Ling Mao. "Complicated table structure recognition." arXiv preprint arXiv:1908.04729 (2019). [Paper Link](https://arxiv.org/abs/1908.04729), [Home Page Link](https://github.com/Academic-Hammer/SciTSR).
+* <b> FinTabNet </b>: Zheng, Xinyi, Douglas Burdick, Lucian Popa, Xu Zhong, and Nancy Xin Ru Wang. "Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context." In Proceedings of the IEEE/CVF winter conference on applications of computer vision, pp. 697-706. 2021. [Paper Link](https://openaccess.thecvf.com/content/WACV2021/html/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.html), [Home Page Link](https://developer.ibm.com/data/fintabnet/).
+* <b> PubTabNet  </b>: Zhong, Xu, Elaheh ShafieiBavani, and Antonio Jimeno Yepes. "Image-based table recognition: data, model, and evaluation." In European Conference on Computer Vision, pp. 564-580. Springer, Cham, 2020. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_34), [Home Page Link](https://github.com/ibm-aur-nlp/PubTabNet).
+* <b> TNCR </b>:  Abdallah, Abdelrahman, Alexander Berendeyev, Islam Nuradin, and Daniyar Nurseitov. "TNCR: Table net detection and classification dataset." Neurocomputing 473 (2022): 79-97. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0925231221018142), [Home Page Link](https://github.com/abdoelsayed2016/TNCR_Dataset).
+* <b> SynthTabNet </b>:Nassar, Ahmed, Nikolaos Livathinos, Maksym Lysak, and Peter Staar. "TableFormer: Table Structure Understanding with Transformers." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4614-4623. 2022.
+  [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.html), [Home Page Link](https://github.com/IBM/SynthTabNet).
+
 # Table Detection and Structure Recognition papers
 ## 2022
 ### Journal
