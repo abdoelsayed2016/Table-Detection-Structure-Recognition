@@ -70,7 +70,14 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Conference
 * Oro, Ermelinda, and Massimo Ruffolo. "TREX: An approach for recognizing and extracting tables from PDF documents." In 2009 10th International Conference on Document Analysis and Recognition, pp. 906-910. IEEE, 2009. [Paper Link](https://ieeexplore.ieee.org/abstract/document/5277546)
 * e Silva, Ana Costa. "Learning rich hidden markov models in document analysis: Table location." In 2009 10th International Conference on Document Analysis and Recognition, pp. 843-847. IEEE, 2009.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/5277527/)
-* 
+
+
+## 2010 
+### Conference
+
+* Shafait, Faisal, and Ray Smith. "Table detection in heterogeneous documents." In Proceedings of the 9th IAPR International Workshop on Document Analysis Systems, pp. 65-72. 2010. [Paper Link](https://dl.acm.org/doi/abs/10.1145/1815330.1815339)
+
+
 ## 2012
 ### Conference
 *  Fang, Jing, Prasenjit Mitra, Zhi Tang, and C. Lee Giles. "Table header detection and classification." In Twenty-Sixth AAAI Conference on Artificial Intelligence. 2012.  [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5046)
