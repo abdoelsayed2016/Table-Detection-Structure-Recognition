@@ -101,6 +101,10 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Conference
 * Hao, Leipeng, Liangcai Gao, Xiaohan Yi, and Zhi Tang. "A table detection method for pdf documents based on convolutional neural networks." In 2016 12th IAPR Workshop on Document Analysis Systems (DAS), pp. 287-292. IEEE, 2016. [Paper Link](https://ieeexplore.ieee.org/abstract/document/7490132)
 
+## 2017
+### Conference
+*  Gilani, Azka, Shah Rukh Qasim, Imran Malik, and Faisal Shafait. "Table detection using deep learning." In 2017 14th IAPR international conference on document analysis and recognition (ICDAR), vol. 1, pp. 771-776. IEEE, 2017.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/8270062)
+
 
 ## 2022
 ### Journal
