@@ -96,6 +96,12 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Preprint
 *  Fan, Miao, and Doo Soon Kim. "Table region detection on large-scale PDF files without labeled data." CoRR, abs/1506.08891 (2015). [Paper Link](https://arxiv.org/abs/1506.08891v2)
 
+
+## 2016
+### Conference
+* Hao, Leipeng, Liangcai Gao, Xiaohan Yi, and Zhi Tang. "A table detection method for pdf documents based on convolutional neural networks." In 2016 12th IAPR Workshop on Document Analysis Systems (DAS), pp. 287-292. IEEE, 2016. [Paper Link](https://ieeexplore.ieee.org/abstract/document/7490132)
+
+
 ## 2022
 ### Journal
 ### Conference
