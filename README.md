@@ -41,16 +41,27 @@ If you find this repository helpful, you may consider cite our relevant work:
 ### Conference
 * Itonori, Katsuhiko. "Table structure recognition based on textblock arrangement and ruled line position." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 765-768. IEEE, 1993. [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
 * Chandran, Surekha, and Rangachar Kasturi. "Structural recognition of tabulated data." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 516-519. IEEE, 1993.  [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
+### Journal
+* O'Gorman, Lawrence. "The document spectrum for page layout analysis." IEEE Transactions on pattern analysis and machine intelligence 15, no. 11 (1993): 1162-1173. [Paper Link](https://ieeexplore.ieee.org/abstract/document/244677)
+
 
 ## 1997
 ### Conference
 * Pyreddy, P., and W. B. Croft. "Tinti: A system for retrieval in text tables title2." (1997). [Paper Link](https://ieeexplore.ieee.org/abstract/document/395683)
-
+* 
+## 1998
+### Conference
+Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysis system." In International Workshop on Document Analysis Systems, pp. 255-270. Springer, Berlin, Heidelberg, 1998. [Paper Link](https://link.springer.com/chapter/10.1007/3-540-48172-9_21)
 
 ## 2001
 ### Conference
 *  Wangt, Yalin, Ihsin T. Phillipst, and Robert Haralick. "Automatic table ground truth generation and a background-analysis-based table structure extraction method." In Proceedings of Sixth International Conference on Document Analysis and Recognition, pp. 528-532. IEEE, 2001. [Paper Link](https://ieeexplore.ieee.org/abstract/document/953845)
 
+## 2002
+### Conference
+* Cesarini, Francesca, Simone Marinai, L. Sarti, and Giovanni Soda. "Trainable table location in document images." In 2002 International Conference on Pattern Recognition, vol. 3, pp. 236-240. IEEE, 2002.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/1047838)
+* Wang, Yalin, and Jianying Hu. "A machine learning based approach for table detection on the web." In Proceedings of the 11th international conference on World Wide Web, pp. 242-250. 2002. [Paper Link](https://dl.acm.org/doi/abs/10.1145/511446.511478?casa_token=2puhatnkKj0AAAAA:IaEEJHaWTOP6yeup6V4IQLzFq3lkXS_58iVfqIbIADbonRY_zpwPTwORT30nnAzbDj1RSQuXM67MQA)
+* 
 ## 2007
 ### Conference
 * Hassan, Tamir, and Robert Baumgartner. "Table recognition and understanding from pdf files." In Ninth International Conference on Document Analysis and Recognition (ICDAR 2007), vol. 2, pp. 1143-1147. IEEE, 2007. [Paper Link](https://ieeexplore.ieee.org/abstract/document/4377094)
@@ -58,19 +69,25 @@ If you find this repository helpful, you may consider cite our relevant work:
 ## 2009
 ### Conference
 * Oro, Ermelinda, and Massimo Ruffolo. "TREX: An approach for recognizing and extracting tables from PDF documents." In 2009 10th International Conference on Document Analysis and Recognition, pp. 906-910. IEEE, 2009. [Paper Link](https://ieeexplore.ieee.org/abstract/document/5277546)
-
+* e Silva, Ana Costa. "Learning rich hidden markov models in document analysis: Table location." In 2009 10th International Conference on Document Analysis and Recognition, pp. 843-847. IEEE, 2009.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/5277527/)
+* 
+## 2012
+### Conference
+*  Fang, Jing, Prasenjit Mitra, Zhi Tang, and C. Lee Giles. "Table header detection and classification." In Twenty-Sixth AAAI Conference on Artificial Intelligence. 2012.  [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5046)
 ## 2013
 ### Conference
 *  Nurminen, Anssi. "Algorithmic extraction of data in tables in PDF documents." Master's thesis, 2013. [Paper Link](https://ieeexplore.ieee.org/abstract/document/5277546)
+*  Kasar, Thotreingam, Philippine Barlas, Sebastien Adam, Clément Chatelain, and Thierry Paquet. "Learning to detect tables in scanned document images using line information." In 2013 12th International Conference on Document Analysis and Recognition, pp. 1185-1189. IEEE, 2013. [Paper Link](https://ieeexplore.ieee.org/abstract/document/6628801)
 ## 2014
 ### Conference
 *  Jahan, MAC Akmal, and Roshan G. Ragel. "Locating tables in scanned documents for reconstructing and republishing." In 7th International Conference on Information and Automation for Sustainability, pp. 1-6. IEEE, 2014.[Paper Link](https://ieeexplore.ieee.org/abstract/document/7069552)
-
+*  Klampfl, Stefan, Kris Jack, and Roman Kern. "A comparison of two unsupervised table recognition methods from digital scientific articles." D-Lib Magazine 20, no. 11 (2014): 7. [Paper Link](http://mirror.dlib.org/dlib/november14/klampfl/11klampfl.html)
 
 ## 2015
 ### Journal
 *  Seo, Wonkyo, Hyung Il Koo, and Nam Ik Cho. "Junction-based table detection in camera-captured document images." International Journal on Document Analysis and Recognition (IJDAR) 18, no. 1 (2015): 47-57.[Paper Link](https://link.springer.com/article/10.1007/s10032-014-0226-7)
-
+### Preprint
+*  Fan, Miao, and Doo Soon Kim. "Table region detection on large-scale PDF files without labeled data." CoRR, abs/1506.08891 (2015). [Paper Link](https://arxiv.org/abs/1506.08891v2)
 
 ## 2022
 ### Journal
