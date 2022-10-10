@@ -116,6 +116,8 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ## 2018
 ### Conference
 * Arif, Saman, and Faisal Shafait. "Table detection in document images using foreground and background features." In 2018 Digital Image Computing: Techniques and Applications (DICTA), pp. 1-8. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8615795)
+* Koci, Elvis, Maik Thiele, Wolfgang Lehner, and Oscar Romero. "Table recognition in spreadsheets via a graph representation." In 2018 13th IAPR International Workshop on Document Analysis Systems (DAS), pp. 139-144. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8395185/)
+* 
 
 ### Journal
 * Siddiqui, Shoaib Ahmed, Muhammad Imran Malik, Stefan Agne, Andreas Dengel, and Sheraz Ahmed. "Decnt: Deep deformable cnn for table detection." IEEE access 6 (2018): 74151-74161. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8540832)
@@ -131,17 +133,26 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Kavasidis, Isaak, Carmelo Pino, Simone Palazzo, Francesco Rundo, Daniela Giordano, P. Messina, and Concetto Spampinato. "A saliency-based convolutional neural network for table and chart detection in digitized documents." In International conference on image analysis and processing, pp. 292-302. Springer, Cham, 2019. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-30645-8_27)
 * Holeček, Martin, Antonín Hoskovec, Petr Baudiš, and Pavel Klinger. "Table understanding in structured documents." In 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW), vol. 5, pp. 158-164. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8892877/)
 * Li, Yibo, Liangcai Gao, Zhi Tang, Qinqin Yan, and Yilun Huang. "A GAN-based feature generator for table detection." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 763-768. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8978037/)
+* Riba, Pau, Anjan Dutta, Lutz Goldmann, Alicia Fornés, Oriol Ramos, and Josep Lladós. "Table detection in invoice documents by graph neural networks." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 122-127. IEEE, 2019.  [Paper Link](https://ieeexplore.ieee.org/abstract/document/8978079)
 * 
+
 
 ## 2020
 ### Conference
 * Carion, Nicolas, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. "End-to-end object detection with transformers." In European conference on computer vision, pp. 213-229. Springer, Cham, 2020. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)
 * Prasad, Devashish, Ayan Gadpal, Kshitij Kapadni, Manish Visave, and Kavita Sultanpure. "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops, pp. 572-573. 2020. [Paper Link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.html)
-*Casado-García, Á., Domínguez, C., Heras, J., Mata, E. and Pascual, V., 2020, July. The benefits of close-domain fine-tuning for table detection in document images. In International workshop on document analysis systems (pp. 199-215). Springer, Cham. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_15)
+* Casado-García, Á., Domínguez, C., Heras, J., Mata, E. and Pascual, V., 2020, July. The benefits of close-domain fine-tuning for table detection in document images. In International workshop on document analysis systems (pp. 199-215). Springer, Cham. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_15)
+* Li, Minghao, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou, and Zhoujun Li. "Tablebank: Table benchmark for image-based table detection and recognition." In Proceedings of The 12th language resources and evaluation conference, pp. 1918-1925. 2020. [Paper Link](https://aclanthology.org/2020.lrec-1.236/)
+* 
+
+
 
 
 ## 2021
 ### Journal
+* Zucker, Arthur, Younes Belkada, Hanh Vu, and Van Nam Nguyen. "ClusTi: Clustering method for table structure recognition in scanned images." Mobile Networks and Applications 26, no. 4 (2021): 1765-1776. [Paper Link](https://link.springer.com/article/10.1007/s11036-021-01759-9#article-info)
+* 
+
 ### Conference
 * Agarwal, Madhav, Ajoy Mondal, and C. V. Jawahar. "Cdec-net: Composite deformable cascade network for table detection in document images." In 2020 25th International Conference on Pattern Recognition (ICPR), pp. 9491-9498. IEEE, 2021. *  [Paper Link](https://ieeexplore.ieee.org/abstract/document/9411922)
 * Zheng, Xinyi, Douglas Burdick, Lucian Popa, Xu Zhong, and Nancy Xin Ru Wang. "Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context." In Proceedings of the IEEE/CVF winter conference on applications of computer vision, pp. 697-706. 2021. [Paper Link](http://openaccess.thecvf.com/content/WACV2021/html/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.html)
@@ -153,9 +164,13 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Journal
 * Nguyen, Duc-Dung. "TableSegNet: a fully convolutional network for table detection and segmentation in document images." International Journal on Document Analysis and Recognition (IJDAR) 25, no. 1 (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-021-00390-4)
 * Zhang, Daqian, Ruibin Mao, Runting Guo, Yang Jiang, and Jing Zhu. "YOLO-table: disclosure document table detection with involution." International Journal on Document Analysis and Recognition (IJDAR) (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-022-00400-z)
-* 
+* Zhang, Zhenrong, Jianshu Zhang, Jun Du, and Fengren Wang. "Split, embed and merge: An accurate table structure recognizer." Pattern Recognition 126 (2022): 108565. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0031320322000462)
+*  
+
 ### Conference
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "PubTables-1M: Towards comprehensive table extraction from unstructured documents." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4634-4642. 2022. [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.html)
+* Namysl, Marcin, Alexander M. Esser, Sven Behnke, and Joachim Köhler. "Flexible Table Recognition and Semantic Interpretation System." In VISIGRAPP (4: VISAPP), pp. 27-37. 2022. [Paper Link](https://www.ais.uni-bonn.de/papers/VISAPP_2022_Namysl.pdf)
+* 
 
 ### Preprint
 * Li, Junlong, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, and Furu Wei. "Dit: Self-supervised pre-training for document image transformer." arXiv preprint arXiv:2203.02378 (2022). [Paper Link](https://arxiv.org/abs/2203.02378) 
