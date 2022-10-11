@@ -37,18 +37,19 @@ If you find this repository helpful, you may consider cite our relevant work:
   [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.html), [Home Page Link](https://github.com/IBM/SynthTabNet).
 
 # Table Detection and Structure Recognition papers
+
 ## 1993
-### Conference
-* Itonori, Katsuhiko. "Table structure recognition based on textblock arrangement and ruled line position." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 765-768. IEEE, 1993. [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
-* Chandran, Surekha, and Rangachar Kasturi. "Structural recognition of tabulated data." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 516-519. IEEE, 1993.  [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
 ### Journal
 * O'Gorman, Lawrence. "The document spectrum for page layout analysis." IEEE Transactions on pattern analysis and machine intelligence 15, no. 11 (1993): 1162-1173. [Paper Link](https://ieeexplore.ieee.org/abstract/document/244677)
 
+### Conference
+* Itonori, Katsuhiko. "Table structure recognition based on textblock arrangement and ruled line position." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 765-768. IEEE, 1993. [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
+* Chandran, Surekha, and Rangachar Kasturi. "Structural recognition of tabulated data." In Proceedings of 2nd International Conference on Document Analysis and Recognition (ICDAR'93), pp. 516-519. IEEE, 1993.  [Paper Link](https://ieeexplore.ieee.org/abstract/document/395625)
 
 ## 1997
 ### Conference
 * Pyreddy, P., and W. B. Croft. "Tinti: A system for retrieval in text tables title2." (1997). [Paper Link](https://ieeexplore.ieee.org/abstract/document/395683)
-* 
+
 ## 1998
 ### Conference
 Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysis system." In International Workshop on Document Analysis Systems, pp. 255-270. Springer, Berlin, Heidelberg, 1998. [Paper Link](https://link.springer.com/chapter/10.1007/3-540-48172-9_21)
@@ -61,7 +62,7 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Conference
 * Cesarini, Francesca, Simone Marinai, L. Sarti, and Giovanni Soda. "Trainable table location in document images." In 2002 International Conference on Pattern Recognition, vol. 3, pp. 236-240. IEEE, 2002.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/1047838)
 * Wang, Yalin, and Jianying Hu. "A machine learning based approach for table detection on the web." In Proceedings of the 11th international conference on World Wide Web, pp. 242-250. 2002. [Paper Link](https://dl.acm.org/doi/abs/10.1145/511446.511478?casa_token=2puhatnkKj0AAAAA:IaEEJHaWTOP6yeup6V4IQLzFq3lkXS_58iVfqIbIADbonRY_zpwPTwORT30nnAzbDj1RSQuXM67MQA)
-* 
+
 ## 2007
 ### Conference
 * Hassan, Tamir, and Robert Baumgartner. "Table recognition and understanding from pdf files." In Ninth International Conference on Document Analysis and Recognition (ICDAR 2007), vol. 2, pp. 1143-1147. IEEE, 2007. [Paper Link](https://ieeexplore.ieee.org/abstract/document/4377094)
@@ -71,20 +72,19 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Oro, Ermelinda, and Massimo Ruffolo. "TREX: An approach for recognizing and extracting tables from PDF documents." In 2009 10th International Conference on Document Analysis and Recognition, pp. 906-910. IEEE, 2009. [Paper Link](https://ieeexplore.ieee.org/abstract/document/5277546)
 * e Silva, Ana Costa. "Learning rich hidden markov models in document analysis: Table location." In 2009 10th International Conference on Document Analysis and Recognition, pp. 843-847. IEEE, 2009.[Paper Link]( https://ieeexplore.ieee.org/abstract/document/5277527/)
 
-
 ## 2010 
 ### Conference
-
 * Shafait, Faisal, and Ray Smith. "Table detection in heterogeneous documents." In Proceedings of the 9th IAPR International Workshop on Document Analysis Systems, pp. 65-72. 2010. [Paper Link](https://dl.acm.org/doi/abs/10.1145/1815330.1815339)
-
 
 ## 2012
 ### Conference
 *  Fang, Jing, Prasenjit Mitra, Zhi Tang, and C. Lee Giles. "Table header detection and classification." In Twenty-Sixth AAAI Conference on Artificial Intelligence. 2012.  [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5046)
+
 ## 2013
 ### Conference
 *  Nurminen, Anssi. "Algorithmic extraction of data in tables in PDF documents." Master's thesis, 2013. [Paper Link](https://ieeexplore.ieee.org/abstract/document/5277546)
 *  Kasar, Thotreingam, Philippine Barlas, Sebastien Adam, Clément Chatelain, and Thierry Paquet. "Learning to detect tables in scanned document images using line information." In 2013 12th International Conference on Document Analysis and Recognition, pp. 1185-1189. IEEE, 2013. [Paper Link](https://ieeexplore.ieee.org/abstract/document/6628801)
+
 ## 2014
 ### Conference
 *  Jahan, MAC Akmal, and Roshan G. Ragel. "Locating tables in scanned documents for reconstructing and republishing." In 7th International Conference on Information and Automation for Sustainability, pp. 1-6. IEEE, 2014.[Paper Link](https://ieeexplore.ieee.org/abstract/document/7069552)
@@ -96,13 +96,10 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ### Preprint
 *  Fan, Miao, and Doo Soon Kim. "Table region detection on large-scale PDF files without labeled data." CoRR, abs/1506.08891 (2015). [Paper Link](https://arxiv.org/abs/1506.08891v2)
 
-
 ## 2016
 ### Conference
 * Hao, Leipeng, Liangcai Gao, Xiaohan Yi, and Zhi Tang. "A table detection method for pdf documents based on convolutional neural networks." In 2016 12th IAPR Workshop on Document Analysis Systems (DAS), pp. 287-292. IEEE, 2016. [Paper Link](https://ieeexplore.ieee.org/abstract/document/7490132)
 * Hao, Leipeng, Liangcai Gao, Xiaohan Yi, and Zhi Tang. "A table detection method for pdf documents based on convolutional neural networks." In 2016 12th IAPR Workshop on Document Analysis Systems (DAS), pp. 287-292. IEEE, 2016. [Paper Link](https://ieeexplore.ieee.org/abstract/document/7490132/)
-
-
 
 ## 2017
 ### Conference
@@ -111,20 +108,15 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * He, Dafang, Scott Cohen, Brian Price, Daniel Kifer, and C. Lee Giles. "Multi-scale multi-task fcn for semantic page segmentation and table detection." In 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), vol. 1, pp. 254-261. IEEE, 2017. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8269981)
 * Gilani, Azka, Shah Rukh Qasim, Imran Malik, and Faisal Shafait. "Table detection using deep learning." In 2017 14th IAPR international conference on document analysis and recognition (ICDAR), vol. 1, pp. 771-776. IEEE, 2017. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8270062)
 * Rashid, Sheikh Faisal, Abdullah Akmal, Muhammad Adnan, Ali Adnan Aslam, and Andreas Dengel. "Table recognition in heterogeneous documents using machine learning." In 2017 14th IAPR International conference on document analysis and recognition (ICDAR), vol. 1, pp. 777-782. IEEE, 2017. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8270063/)
-* 
-
-
+* Rashid, Sheikh Faisal, Abdullah Akmal, Muhammad Adnan, Ali Adnan Aslam, and Andreas Dengel. "Table recognition in heterogeneous documents using machine learning." In 2017 14th IAPR International conference on document analysis and recognition (ICDAR), vol. 1, pp. 777-782. IEEE, 2017. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8270063/)
 
 ## 2018
-### Conference
-* Arif, Saman, and Faisal Shafait. "Table detection in document images using foreground and background features." In 2018 Digital Image Computing: Techniques and Applications (DICTA), pp. 1-8. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8615795)
-* Koci, Elvis, Maik Thiele, Wolfgang Lehner, and Oscar Romero. "Table recognition in spreadsheets via a graph representation." In 2018 13th IAPR International Workshop on Document Analysis Systems (DAS), pp. 139-144. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8395185/)
-* 
-
 ### Journal
 * Siddiqui, Shoaib Ahmed, Muhammad Imran Malik, Stefan Agne, Andreas Dengel, and Sheraz Ahmed. "Decnt: Deep deformable cnn for table detection." IEEE access 6 (2018): 74151-74161. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8540832)
 
-
+### Conference
+* Arif, Saman, and Faisal Shafait. "Table detection in document images using foreground and background features." In 2018 Digital Image Computing: Techniques and Applications (DICTA), pp. 1-8. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8615795)
+* Koci, Elvis, Maik Thiele, Wolfgang Lehner, and Oscar Romero. "Table recognition in spreadsheets via a graph representation." In 2018 13th IAPR International Workshop on Document Analysis Systems (DAS), pp. 139-144. IEEE, 2018. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8395185/)
 
 ## 2019
 ### Conference
@@ -144,8 +136,7 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Deng, Yuntian, David Rosenberg, and Gideon Mann. "Challenges in end-to-end neural scientific table recognition." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 894-901. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8978078/)
 * Xue, Wenyuan, Qingyong Li, and Dacheng Tao. "ReS2TIM: Reconstruct syntactic structures from table images." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 749-755. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8978027/)
 * Tensmeyer, Chris, Vlad I. Morariu, Brian Price, Scott Cohen, and Tony Martinez. "Deep splitting and merging for table structure decomposition." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 114-121. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8977975/)
-* 
-
+* Siddiqui, Shoaib Ahmed, Imran Ali Fateh, Syed Tahseen Raza Rizvi, Andreas Dengel, and Sheraz Ahmed. "Deeptabstr: Deep learning based table structure recognition." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 1403-1409. IEEE, 2019. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8978137)
 
 ## 2020
 ### Conference
@@ -156,20 +147,16 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Raja, Sachin, Ajoy Mondal, and C. V. Jawahar. "Table structure recognition using top-down and bottom-up cues." In European Conference on Computer Vision, pp. 70-86. Springer, Cham, 2020. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_5)
 * Zou, Yajun, and Jinwen Ma. "A deep semantic segmentation model for image-based table structure recognition." In 2020 15th IEEE International Conference on Signal Processing (ICSP), vol. 1, pp. 274-280. IEEE, 2020. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9321003/)
 * Zou, Yajun, and Jinwen Ma. "A deep semantic segmentation model for image-based table structure recognition." In 2020 15th IEEE International Conference on Signal Processing (ICSP), vol. 1, pp. 274-280. IEEE, 2020. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9321003/)
-* 
-
-
-
+* Zhong, Xu, Elaheh ShafieiBavani, and Antonio Jimeno Yepes. "Image-based table recognition: data, model, and evaluation." In European Conference on Computer Vision, pp. 564-580. Springer, Cham, 2020. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_34)
 
 ## 2021
 ### Journal
 * Zucker, Arthur, Younes Belkada, Hanh Vu, and Van Nam Nguyen. "ClusTi: Clustering method for table structure recognition in scanned images." Mobile Networks and Applications 26, no. 4 (2021): 1765-1776. [Paper Link](https://link.springer.com/article/10.1007/s11036-021-01759-9#article-info)
-* 
+* Hashmi, Khurram Azeem, Didier Stricker, Marcus Liwicki, Muhammad Noman Afzal, and Muhammad Zeshan Afzal. "Guided table structure recognition through anchor optimization." IEEE Access 9 (2021): 113521-113534. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9508971) 
 
 ### Conference
 * Agarwal, Madhav, Ajoy Mondal, and C. V. Jawahar. "Cdec-net: Composite deformable cascade network for table detection in document images." In 2020 25th International Conference on Pattern Recognition (ICPR), pp. 9491-9498. IEEE, 2021. *  [Paper Link](https://ieeexplore.ieee.org/abstract/document/9411922)
 * Zheng, Xinyi, Douglas Burdick, Lucian Popa, Xu Zhong, and Nancy Xin Ru Wang. "Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context." In Proceedings of the IEEE/CVF winter conference on applications of computer vision, pp. 697-706. 2021. [Paper Link](http://openaccess.thecvf.com/content/WACV2021/html/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.html)
-* 
 
 ### Preprint
 
@@ -179,8 +166,6 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Zhang, Daqian, Ruibin Mao, Runting Guo, Yang Jiang, and Jing Zhu. "YOLO-table: disclosure document table detection with involution." International Journal on Document Analysis and Recognition (IJDAR) (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-022-00400-z)
 * Zhang, Zhenrong, Jianshu Zhang, Jun Du, and Fengren Wang. "Split, embed and merge: An accurate table structure recognizer." Pattern Recognition 126 (2022): 108565. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0031320322000462)
 *  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
-*  
-
 
 ### Conference
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "PubTables-1M: Towards comprehensive table extraction from unstructured documents." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4634-4642. 2022. [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.html)
@@ -189,22 +174,8 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Raja, Sachin, Ajoy Mondal, and C. V. Jawahar. "Visual Understanding of Complex Table Structures from Document Images." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 2299-2308. 2022. [Paper Link](https://openaccess.thecvf.com/content/WACV2022/html/Raja_Visual_Understanding_of_Complex_Table_Structures_From_Document_Images_WACV_2022_paper.html)
 * Shen, Xinyi, Lingjun Kong, Yunchao Bao, Yaowei Zhou, and Weiguang Liu. "RCANet: A Rows and Columns Aggregated Network for Table Structure Recognition." In 2022 3rd Information Communication Technologies Conference (ICTC), pp. 112-116. IEEE, 2022. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9778621/)
 * Li, Huichao, Lingze Zeng, Weiyu Zhang, Jianing Zhang, Ju Fan, and Meihui Zhang. "A Two-Phase Approach for Recognizing Tables with Complex Structures." In International Conference on Database Systems for Advanced Applications, pp. 587-595. Springer, Cham, 2022. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_47)
-* 
 
 ### Preprint
 * Li, Junlong, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, and Furu Wei. "Dit: Self-supervised pre-training for document image transformer." arXiv preprint arXiv:2203.02378 (2022). [Paper Link](https://arxiv.org/abs/2203.02378) 
 * Xiao, Bin, Murat Simsek, Burak Kantarci, and Ala Abu Alkheir. "Table Structure Recognition with Conditional Attention." arXiv preprint arXiv:2203.03819 (2022). [Paper Link](https://arxiv.org/abs/2203.03819)
 * Jain, Arushi, Shubham Paliwal, Monika Sharma, and Lovekesh Vig. "TSR-DSAW: Table Structure Recognition via Deep Spatial Association of Words." arXiv preprint arXiv:2203.06873 (2022). [Paper Link](https://arxiv.org/abs/2203.06873)
-* 
-
-
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
-*  [Paper Link]()
