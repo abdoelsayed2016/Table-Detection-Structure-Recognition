@@ -138,10 +138,18 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Zheng, Xinyi, Douglas Burdick, Lucian Popa, Xu Zhong, and Nancy Xin Ru Wang. "Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context." In Proceedings of the IEEE/CVF winter conference on applications of computer vision, pp. 697-706. 2021. [Paper Link](http://openaccess.thecvf.com/content/WACV2021/html/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.html)
 ## 2022
 ### Journal
+* Riba, Pau, Lutz Goldmann, Oriol Ramos Terrades, Diede Rusticus, Alicia Fornés, and Josep Lladós. "Table detection in business document images by message passing networks." Pattern Recognition 127 (2022): 108641. [Paper Link](https://doi.org/10.1016/j.patcog.2022.108641)
+* Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://doi.org/10.1016/j.patcog.2022.109006)
+* Kwon, Hyebin, Joungbin An, Dongwoo Lee, and Won-Yong Shin. "DATa: Domain Adaptation-aided deep Table detection using visual–lexical representations." Knowledge-Based Systems (2022): 109946.  [Paper Link](https://doi.org/10.1016/j.knosys.2022.109946)
+* Nguyen, Duc-Dung. "TableSegNet: a fully convolutional network for table detection and segmentation in document images." International Journal on Document Analysis and Recognition (IJDAR) 25, no. 1 (2022): 1-14. [Paper Link](https://doi.org/10.1016/j.neucom.2021.10.023)
+
 * Nguyen, Duc-Dung. "TableSegNet: a fully convolutional network for table detection and segmentation in document images." International Journal on Document Analysis and Recognition (IJDAR) 25, no. 1 (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-021-00390-4)
 * Zhang, Daqian, Ruibin Mao, Runting Guo, Yang Jiang, and Jing Zhu. "YOLO-table: disclosure document table detection with involution." International Journal on Document Analysis and Recognition (IJDAR) (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-022-00400-z)
 * Zhang, Zhenrong, Jianshu Zhang, Jun Du, and Fengren Wang. "Split, embed and merge: An accurate table structure recognizer." Pattern Recognition 126 (2022): 108565. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0031320322000462)
 *  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
+
+* Li, Xiao-Hui, Fei Yin, He-Sen Dai, and Cheng-Lin Liu. "Table Structure Recognition and Form Parsing by End-to-End Object Detection and Relation Parsing." Pattern Recognition 132 (2022): 108946. [Paper Link]( https://doi.org/10.1016/j.patcog.2022.108946)
+
 ### Conference
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "PubTables-1M: Towards comprehensive table extraction from unstructured documents." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4634-4642. 2022. [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.html)
 * Namysl, Marcin, Alexander M. Esser, Sven Behnke, and Joachim Köhler. "Flexible Table Recognition and Semantic Interpretation System." In VISIGRAPP (4: VISAPP), pp. 27-37. 2022. [Paper Link](https://www.ais.uni-bonn.de/papers/VISAPP_2022_Namysl.pdf)
@@ -150,6 +158,9 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Shen, Xinyi, Lingjun Kong, Yunchao Bao, Yaowei Zhou, and Weiguang Liu. "RCANet: A Rows and Columns Aggregated Network for Table Structure Recognition." In 2022 3rd Information Communication Technologies Conference (ICTC), pp. 112-116. IEEE, 2022. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9778621/)
 * Li, Huichao, Lingze Zeng, Weiyu Zhang, Jianing Zhang, Ju Fan, and Meihui Zhang. "A Two-Phase Approach for Recognizing Tables with Complex Structures." In International Conference on Database Systems for Advanced Applications, pp. 587-595. Springer, Cham, 2022. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_47)
 ### Preprint
+* Lin, Weihong, Zheng Sun, Chixiang Ma, Mingze Li, Jiawei Wang, Lei Sun, and Qiang Huo. "TSRFormer: Table Structure Recognition with Transformers." arXiv preprint arXiv:2208.04921 (2022). [Paper Link](https://arxiv.org/abs/2208.04921)
 * Li, Junlong, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, and Furu Wei. "Dit: Self-supervised pre-training for document image transformer." arXiv preprint arXiv:2203.02378 (2022). [Paper Link](https://arxiv.org/abs/2203.02378) 
 * Xiao, Bin, Murat Simsek, Burak Kantarci, and Ala Abu Alkheir. "Table Structure Recognition with Conditional Attention." arXiv preprint arXiv:2203.03819 (2022). [Paper Link](https://arxiv.org/abs/2203.03819)
 * Jain, Arushi, Shubham Paliwal, Monika Sharma, and Lovekesh Vig. "TSR-DSAW: Table Structure Recognition via Deep Spatial Association of Words." arXiv preprint arXiv:2203.06873 (2022). [Paper Link](https://arxiv.org/abs/2203.06873)
+* Guo, Zengyuan, Yuechen Yu, Pengyuan Lv, Chengquan Zhang, Haojie Li, Zhihui Wang, Kun Yao, Jingtuo Liu, and Jingdong Wang. "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers." arXiv preprint arXiv:2208.14687 (2022). [Paper Link](https://arxiv.org/abs/2208.14687)
+
