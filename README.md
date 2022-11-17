@@ -1,4 +1,4 @@
-# <a target="_blank" rel="noopener noreferrer"  href="[https://doi.org/10.1016/j.neucom.2021.11.101](https://arxiv.org/abs/2211.08469)">Deep learning for table detection and structure recognition: A survey. </a>
+# <a target="_blank" rel="noopener noreferrer"  href="https://arxiv.org/abs/2211.08469">Deep learning for table detection and structure recognition: A survey. </a>
 ## Table Detection and Structure Recognition
 
 
