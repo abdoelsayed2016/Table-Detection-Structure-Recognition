@@ -1,4 +1,5 @@
-# Table Detection and Structure Recognition
+# Deep learning for table detection and structure recognition: A survey.
+## Table Detection and Structure Recognition
 
 
 This is the repository for the collection of Table Detection and Structure Recognition models and Datasets.
