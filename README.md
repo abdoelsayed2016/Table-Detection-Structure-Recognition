@@ -164,14 +164,12 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 ## 2022
 ### Journal
 * Riba, Pau, Lutz Goldmann, Oriol Ramos Terrades, Diede Rusticus, Alicia Fornés, and Josep Lladós. "Table detection in business document images by message passing networks." Pattern Recognition 127 (2022): 108641. [Paper Link](https://doi.org/10.1016/j.patcog.2022.108641)
-* Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://doi.org/10.1016/j.patcog.2022.109006)
 * Kwon, Hyebin, Joungbin An, Dongwoo Lee, and Won-Yong Shin. "DATa: Domain Adaptation-aided deep Table detection using visual–lexical representations." Knowledge-Based Systems (2022): 109946.  [Paper Link](https://doi.org/10.1016/j.knosys.2022.109946)
 * Nguyen, Duc-Dung. "TableSegNet: a fully convolutional network for table detection and segmentation in document images." International Journal on Document Analysis and Recognition (IJDAR) 25, no. 1 (2022): 1-14. [Paper Link](https://doi.org/10.1016/j.neucom.2021.10.023)
 
 * Nguyen, Duc-Dung. "TableSegNet: a fully convolutional network for table detection and segmentation in document images." International Journal on Document Analysis and Recognition (IJDAR) 25, no. 1 (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-021-00390-4)
 * Zhang, Daqian, Ruibin Mao, Runting Guo, Yang Jiang, and Jing Zhu. "YOLO-table: disclosure document table detection with involution." International Journal on Document Analysis and Recognition (IJDAR) (2022): 1-14. [Paper Link](https://link.springer.com/article/10.1007/s10032-022-00400-z)
 * Zhang, Zhenrong, Jianshu Zhang, Jun Du, and Fengren Wang. "Split, embed and merge: An accurate table structure recognizer." Pattern Recognition 126 (2022): 108565. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0031320322000462)
-*  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
 
 * Li, Xiao-Hui, Fei Yin, He-Sen Dai, and Cheng-Lin Liu. "Table Structure Recognition and Form Parsing by End-to-End Object Detection and Relation Parsing." Pattern Recognition 132 (2022): 108946. [Paper Link]( https://doi.org/10.1016/j.patcog.2022.108946)
 * Ajij, Md, Sanjoy Pratihar, Diptendu Sinha Roy, and Thomas Hanne. "Robust detection of Tables in documents using scores from Table cell cores." SN Computer Science 3, no. 2 (2022): 1-19.[Paper Link]( https://link.springer.com/article/10.1007/s42979-022-01041-z)
@@ -198,6 +196,9 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Guo, Zengyuan, Yuechen Yu, Pengyuan Lv, Chengquan Zhang, Haojie Li, Zhihui Wang, Kun Yao, Jingtuo Liu, and Jingdong Wang. "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers." arXiv preprint arXiv:2208.14687 (2022). [Paper Link](https://arxiv.org/abs/2208.14687)
 * Gemelli, Andrea, Emanuele Vivoli, and Simone Marinai. "Graph neural networks and representation embedding for table extraction in PDF documents." arXiv preprint arXiv:2208.11203 (2022). [Paper Link](https://arxiv.org/abs/2208.11203)
 
+## 2023
+### Journal
+*  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
