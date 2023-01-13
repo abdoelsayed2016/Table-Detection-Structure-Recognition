@@ -198,8 +198,9 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 
 ## 2023
 ### Journal
-*  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
 
+*  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
+*  
 ## Cite as
 If you find this work useful for your research, please cite our paper:
 ```
