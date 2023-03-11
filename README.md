@@ -201,9 +201,13 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 
 *  Ma, Chixiang, Weihong Lin, Lei Sun, and Qiang Huo. "Robust Table Detection and Structure Recognition from Heterogeneous Document Images." Pattern Recognition 133 (2023): 109006. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
 *  Zhang T, Sui Y, Wu S, Shao F, Sun R. Table Structure Recognition Method Based on Lightweight Network and Channel Attention. Electronics. 2023; 12(3):673. [Paper Link](https://doi.org/10.3390/electronics12030673)
+* Kazdar, Takwa, Wided Souidene Mseddi, Moulay A. Akhloufi, Ala Agrebi, Marwa Jmal, and Rabah Attia. 2023. "DCTable: A Dilated CNN with Optimizing Anchors for Accurate Table Detection" Journal of Imaging 9, no. 3: 62. [Paper Link](https://doi.org/10.3390/jimaging9030062)
+
+
 
 ### Preprint
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "Aligning benchmark datasets for table structure recognition." arXiv preprint arXiv:2303.00716 (2023). [Paper Link](https://arxiv.org/abs/2303.00716)
+* Xing, H., Gao, F., Long, R., Bu, J., Zheng, Q., Li, L., ... & Yu, Z. (2023). LORE: Logical Location Regression Network for Table Structure Recognition. arXiv preprint arXiv:2303.03730. [Paper Link](https://arxiv.org/abs/2303.03730)
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
