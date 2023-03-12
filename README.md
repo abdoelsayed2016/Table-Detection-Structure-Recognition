@@ -37,6 +37,8 @@ If you find this repository helpful, you may consider cite our relevant work:
 * <b> SynthTabNet </b>:Nassar, Ahmed, Nikolaos Livathinos, Maksym Lysak, and Peter Staar. "TableFormer: Table Structure Understanding with Transformers." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4614-4623. 2022.
   [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/html/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.html), [Home Page Link](https://github.com/IBM/SynthTabNet).
 
+* <b> CTE </b>:  Gemelli, A., Vivoli, E., & Marinai, S. (2023). CTE: A Dataset for Contextualized Table Extraction. arXiv preprint arXiv:2302.01451. [Paper Link](https://arxiv.org/abs/2302.01451), [Home Page Link](https://github.com/AILab-UniFI/cte-dataset)
+
 # Table Detection and Structure Recognition papers
 ## 1993
 ### Journal
