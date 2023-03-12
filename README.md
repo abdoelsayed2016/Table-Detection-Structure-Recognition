@@ -203,9 +203,9 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 *  Zhang T, Sui Y, Wu S, Shao F, Sun R. Table Structure Recognition Method Based on Lightweight Network and Channel Attention. Electronics. 2023; 12(3):673. [Paper Link](https://doi.org/10.3390/electronics12030673)
 * Kazdar, Takwa, Wided Souidene Mseddi, Moulay A. Akhloufi, Ala Agrebi, Marwa Jmal, and Rabah Attia. 2023. "DCTable: A Dilated CNN with Optimizing Anchors for Accurate Table Detection" Journal of Imaging 9, no. 3: 62. [Paper Link](https://doi.org/10.3390/jimaging9030062)
 
-* Namysł, M., Esser, A.M., Behnke, S. et al. Flexible Hybrid Table Recognition and Semantic Interpretation System. SN COMPUT. SCI. 4, 246 (2023). https://doi.org/10.1007/s42979-022-01659-z . [Paper Link](https://doi.org/10.1007/s42979-022-01659-z)
+* Namysł, M., Esser, A.M., Behnke, S. et al. Flexible Hybrid Table Recognition and Semantic Interpretation System. SN COMPUT. SCI. 4, 246 (2023). [Paper Link](https://doi.org/10.1007/s42979-022-01659-z)
 
-* Yang, F., Hu, L., Liu, X. et al. A large-scale dataset for end-to-end table recognition in the wild. Sci Data 10, 110 (2023). https://doi.org/10.1038/s41597-023-01985-8  [Paper Link](https://doi.org/10.1038/s41597-023-01985-8)
+* Yang, F., Hu, L., Liu, X. et al. A large-scale dataset for end-to-end table recognition in the wild. Sci Data 10, 110 (2023).  [Paper Link](https://doi.org/10.1038/s41597-023-01985-8)
 
 ### Preprint
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "Aligning benchmark datasets for table structure recognition." arXiv preprint arXiv:2303.00716 (2023). [Paper Link](https://arxiv.org/abs/2303.00716)
