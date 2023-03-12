@@ -206,6 +206,7 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Namysł, M., Esser, A.M., Behnke, S. et al. Flexible Hybrid Table Recognition and Semantic Interpretation System. SN COMPUT. SCI. 4, 246 (2023). [Paper Link](https://doi.org/10.1007/s42979-022-01659-z)
 
 * Yang, F., Hu, L., Liu, X. et al. A large-scale dataset for end-to-end table recognition in the wild. Sci Data 10, 110 (2023).  [Paper Link](https://doi.org/10.1038/s41597-023-01985-8)
+* Wang, Hongyi, Yang Xue, Jiaxin Zhang, and Lianwen Jin. "Scene table structure recognition with segmentation collaboration and alignment." Pattern Recognition Letters 165 (2023): 146-153.[Paper Link]( https://doi.org/10.1016/j.patrec.2022.12.014)
 
 ### Preprint
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "Aligning benchmark datasets for table structure recognition." arXiv preprint arXiv:2303.00716 (2023). [Paper Link](https://arxiv.org/abs/2303.00716)
