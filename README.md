@@ -209,6 +209,8 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 * Smock, Brandon, Rohith Pesala, and Robin Abraham. "Aligning benchmark datasets for table structure recognition." arXiv preprint arXiv:2303.00716 (2023). [Paper Link](https://arxiv.org/abs/2303.00716)
 * Xing, H., Gao, F., Long, R., Bu, J., Zheng, Q., Li, L., ... & Yu, Z. (2023). LORE: Logical Location Regression Network for Table Structure Recognition. arXiv preprint arXiv:2303.03730. [Paper Link](https://arxiv.org/abs/2303.03730)
 
+* Zhang, Z., Hu, P., Ma, J., Du, J., Zhang, J., Zhu, H., ... & Liu, C. (2023). SEMv2: Table Separation Line Detection Based on Conditional Convolution. arXiv preprint arXiv:2303.04384.[Paper Link]( https://arxiv.org/abs/2303.04384 )
+
 ## Cite as
 If you find this work useful for your research, please cite our paper:
 ```
