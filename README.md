@@ -216,6 +216,8 @@ Kieninger, Thomas, and Andreas Dengel. "The t-recs table recognition and analysi
 
 * Zhang, Z., Hu, P., Ma, J., Du, J., Zhang, J., Zhu, H., ... & Liu, C. (2023). SEMv2: Table Separation Line Detection Based on Conditional Convolution. arXiv preprint arXiv:2303.04384.[Paper Link]( https://arxiv.org/abs/2303.04384 )
 
+ * Ly, N. T., & Takasu, A. (2023). An End-to-End Multi-Task Learning Model for Image-based Table Recognition. arXiv preprint arXiv:2303.08648. [Paper Link]( https://arxiv.org/abs/2303.08648 )
+
 ## Cite as
 If you find this work useful for your research, please cite our paper:
 ```
